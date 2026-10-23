@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/1m6e0bc2bhvyj.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"mdxPath","t":"oc","k":"infra-devops/rethinking-batch-schedulers-in-commerce-operations","s":["og","rss.xml","tags"]},"h":64,"c":"$Q2"}]]
-0:{"b":"WRPAVOY1gwQb8AgwNcYo1","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"_GBg3R5PNaa9IQju6DW1V","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
